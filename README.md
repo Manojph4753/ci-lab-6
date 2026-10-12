@@ -1,0 +1,1 @@
+[![Build and Test](https://github.com/Manojph4753/ci-lab-6/actions/workflows/ci.yml/badge.svg)](https://github.com/Manojph4753/ci-lab-6/actions/workflows/ci.yml)
