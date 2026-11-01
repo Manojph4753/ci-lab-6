@@ -1,1 +1,1 @@
-console.log("Hello from CI/CD lab"
+console.log("Hello from CI/CD lab");
