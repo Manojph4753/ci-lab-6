@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Manojph4753/ci-lab-6/issues"
   },
-  "homepage": "https://github.com/Manojph4753/ci-lab-6#readme"
+  "homepage": "https://github.com/Manojph4753/ci-lab-6#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
 }
